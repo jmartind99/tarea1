@@ -1,0 +1,5 @@
+# Ignorar archivos con la extensión .txt
+*.txt
+
+# Ignorar la carpeta basura
+basura/
